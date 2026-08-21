@@ -1,0 +1,7 @@
+[build]
+  publish = "."
+  command = ""
+
+[context.production.environment]
+# Add any environment variables here, e.g.:
+# SAMPLE_VAR = "value"
